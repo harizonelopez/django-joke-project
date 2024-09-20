@@ -20,7 +20,7 @@ This is a simple Django web application that displays jokes fetched from both a 
 1. **Clone the Repository**
 
     ```sh
-    git clone https://github.com/yourusername/django-joke-app.git
+    git clone https://github.com/harizonelopez/django-joke-app.git
     cd django-joke-app
     ```
 
