@@ -45,7 +45,7 @@ This is a simple Django web application that displays jokes fetched from both a 
 
 5. **Access the Application**
 
-    Open your web browser and go to `http://127.0.0.1:8000/` to view the list of jokes and interact with the application.
+    Open your web browser and go to `http://127.0.0.1:8000` to view the list of jokes and interact with the application.
 
 ## Contributing
 
